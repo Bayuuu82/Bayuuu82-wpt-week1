@@ -26,11 +26,11 @@ jadi file kita bisa dikelola dengan lebih jelas dalam perubahan di setiap versi.
 # Lesson 3: HTML
 [__HTML(Hypertext Markup Language__)](https://developer.mozilla.org/en-US/docs/Web/HTML) merupakan markup language yang digunakan untuk menampilkan konten pada browser. HTML dapat dibuat hanya dengan code editor dan browser. HTML bisa di buat tanpa structure tapi HTML akan berjalan lebih baik dengan structur yang baik. HTML memiliki [__Element__](https://www.w3schools.com/html/html_elements.asp) dan [__Atribute__](https://www.w3schools.com/html/html_attributes.asp) atau properties yang ada pada element
 
-![](./assets/HTML.jpg)
+![](./assets/html.jpg)
 
 
 # Lesson 4: CSS
-![](./assets/css.jpg)
+![](./assets/CSS.jpg)
 
 [__CSS(Cascading Style Sheets)__](https://www.w3schools.com/css/) di tambahkan bertujuan untuk mempercantik tampilan HTML yang kaku. CSS juga memiliki struktur yaitu elementhtml{property : value}. CSS dimasukkan kedalam HTML dengan 3 cara, yaitu dengan Inline style(memasukan langsung di file html sebagai attribute di element), Tag style(menambahkan element tag pada html), dan yang ketiga menggunakan file .css dan dihubungkan pada HTML dengan __tag__ link pada __head__ HTML.
 
