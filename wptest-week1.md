@@ -32,7 +32,7 @@ jadi file kita bisa dikelola dengan lebih jelas dalam perubahan di setiap versi.
 # Lesson 4: CSS
 ![](./assets/css.jpg)
 
-[__CSS(Cascading Style Sheets)__](https://www.w3schools.com/css/) di tambahkan bertujuan untuk mempercantik tampilan HTML yang kaku. CSS juga memiliki struktur yaitu elementhtml{property : value}. CSS dimasukkan kedalam HTML dengan 3 cara, yaitu dengan Inline style(memasukan langsung di file html sebagai attribute di element), Tag style(menambahkan element tag pada html), dan yang ketiga menggunakan file .css dan dihubungkan pada HTML dengan __tag__ link pada __head__ HTML
+[__CSS(Cascading Style Sheets)__](https://www.w3schools.com/css/) di tambahkan bertujuan untuk mempercantik tampilan HTML yang kaku. CSS juga memiliki struktur yaitu elementhtml{property : value}. CSS dimasukkan kedalam HTML dengan 3 cara, yaitu dengan Inline style(memasukan langsung di file html sebagai attribute di element), Tag style(menambahkan element tag pada html), dan yang ketiga menggunakan file .css dan dihubungkan pada HTML dengan __tag__ link pada __head__ HTML.
 
 
 # Lesson 5: Algoritma & Pseudocode
